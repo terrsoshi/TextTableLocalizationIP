@@ -3,7 +3,7 @@ Text, Table Localization and Detection for Scientific Document using OpenCV.
 
 ## Running the algorithm
 ### Runs only on Windows Operating System
-- Run main.py using a Python IDE.  
+- Run main.py using a Python IDE on a Windows PC.  
 - It is recommended to run this algorithm on Python IDEs that supports the integration of OpenCV such as Spyder.  
 - Make sure OpenCV is installed.
 
