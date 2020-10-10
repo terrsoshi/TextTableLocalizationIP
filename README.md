@@ -10,7 +10,7 @@ Text, Table Localization and Detection for Scientific Document using OpenCV.
 ## Problem Description
 The aim of my code is to detect the location of all the texts in sections of paragraphs and tables in a set of scientific documents. The code should be able to differentiate texts and objects written on a blank white document. Tables will be identified separately from texts. To better identify paragraphs and tables, I specifically separate the two elements into different colours: blue and red respectively.
 
-## Expected Outputs
+## Expected Output
 ![Expected_Output](resources/Expected_Output.png)
 
 ## Built On/With
